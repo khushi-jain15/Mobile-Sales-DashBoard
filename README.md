@@ -1,4 +1,4 @@
-📊 Mobile Sales Dashboard – Power BI
+#📊 Mobile Sales Dashboard – Power BI
 📝 Overview
 The Mobile Sales Dashboard is an interactive business intelligence dashboard developed using Power BI, aimed at visualizing and analyzing mobile sales data efficiently. The dashboard offers comprehensive insights into sales performance, product trends, customer segments, and regional analytics – all in one place.
 
